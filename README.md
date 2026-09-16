@@ -36,7 +36,7 @@ For each incorrect guess, another part of the Hangman figure is displayed. The p
 
 ## Screenshots
 
-![Main Page](screenshots/main.png)
+![Main Page](main.png)
 
 
 
